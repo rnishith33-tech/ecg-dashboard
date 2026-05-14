@@ -1,0 +1,25 @@
+body{
+    background:#0b47d1;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+}
+
+.dashboard{
+    display:flex;
+    justify-content:space-around;
+    margin-top:40px;
+}
+
+canvas{
+    background:rgb(181, 213, 22);
+    width:700px !important;
+    height:400px !important;
+}
+
+.chatbot{
+    background:#21d436;
+    padding:20px;
+    width:250px;
+    border-radius:10px;
+}
